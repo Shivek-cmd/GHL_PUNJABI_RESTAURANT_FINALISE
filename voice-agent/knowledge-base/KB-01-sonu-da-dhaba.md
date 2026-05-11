@@ -1,23 +1,23 @@
-# KB-01: Sonu da Dhaba
+﻿# KB-01: The Golden Spoon
 
-> **GHL Location:** AI Agents → Knowledge Base → + Create Knowledge Base → Name: "KB-01: Sonu da Dhaba"
-> **Attach to:** All Voice AI agents (VA-01 English, VA-02 Hindi, VA-03 Punjabi). Voice AI allows 1 KB — this is it.
-> **Structure:** This KB uses 3 source types. Set them up in order: Rich Text → CSV Table → FAQ.
+> **GHL Location:** AI Agents â†’ Knowledge Base â†’ + Create Knowledge Base â†’ Name: "KB-01: The Golden Spoon"
+> **Attach to:** All Voice AI agents (VA-01 English, VA-02 Hindi, VA-03 Punjabi). Voice AI allows 1 KB â€” this is it.
+> **Structure:** This KB uses 3 source types. Set them up in order: Rich Text â†’ CSV Table â†’ FAQ.
 
 ---
 
-## SOURCE 1 — RICH TEXT: Restaurant Info & Policies
+## SOURCE 1 â€” RICH TEXT: Restaurant Info & Policies
 
-> GHL → KB-01 → + Add Source → Rich Text
+> GHL â†’ KB-01 â†’ + Add Source â†’ Rich Text
 > Two sections: one for restaurant info, one for policies.
 
 ---
 
 ### Rich Text Section 1 of 2: Restaurant Info
 
-**Name:** Sonu da Dhaba
+**Name:** The Golden Spoon
 **Cuisine:** Authentic Punjabi / North Indian
-**Hours:** Monday to Sunday, 11:00 AM to 11:00 PM — open 7 days a week
+**Hours:** Monday to Sunday, 11:00 AM to 11:00 PM â€” open 7 days a week
 **Order Types:** Takeout and Delivery
 **Address:** {{custom_values.address}}
 **Phone:** {{custom_values.main_phone}}
@@ -30,19 +30,19 @@
 
 **Spice level:** Customers can request mild, medium, or spicy for all curries, karahi, and masala dishes.
 
-**Allergies:** For allergy questions, always let the team know when collecting the order — the kitchen advises directly. Never confirm food safety over the phone.
+**Allergies:** For allergy questions, always let the team know when collecting the order â€” the kitchen advises directly. Never confirm food safety over the phone.
 
 **Halal:** Callers asking about halal certification should be directed to call the restaurant directly.
 
 **Gluten-free:** Many rice dishes and curries are naturally gluten-free. For specific allergy needs, defer to the kitchen.
 
-**Timing:** Never estimate delivery or wait times — the kitchen handles this.
+**Timing:** Never estimate delivery or wait times â€” the kitchen handles this.
 
 ---
 
-## SOURCE 2 — CSV TABLE: Menu
+## SOURCE 2 â€” CSV TABLE: Menu
 
-> GHL → KB-01 → + Add Source → Tables
+> GHL â†’ KB-01 â†’ + Add Source â†’ Tables
 > Upload the CSV file below (save as `sonu-da-dhaba-menu.csv`, UTF-8 encoding).
 > Indexing takes a few minutes after upload.
 > Column headers are on row 1. Do not modify header names.
@@ -141,18 +141,18 @@ Desserts,Ras Malai (2 pcs),$6.49,Soft cottage cheese dumplings in sweet saffron-
 > **Upload instructions:**
 > 1. Copy the CSV content above into a text editor
 > 2. Save as `sonu-da-dhaba-menu.csv` with UTF-8 encoding
-> 3. GHL → KB-01 → + Add Source → Tables → upload the file
-> 4. After indexing, click View All → confirm rows loaded → click Train Bot
+> 3. GHL â†’ KB-01 â†’ + Add Source â†’ Tables â†’ upload the file
+> 4. After indexing, click View All â†’ confirm rows loaded â†’ click Train Bot
 
-> **Scaling rule:** To add new items, add rows to the CSV and re-upload. To add a new category, just use a new Category name — no restructuring needed.
+> **Scaling rule:** To add new items, add rows to the CSV and re-upload. To add a new category, just use a new Category name â€” no restructuring needed.
 
 ---
 
-## SOURCE 3 — FAQ: Exact-Match Q&A
+## SOURCE 3 â€” FAQ: Exact-Match Q&A
 
-> GHL → KB-01 → + Add Source → FAQ
+> GHL â†’ KB-01 â†’ + Add Source â†’ FAQ
 > Add each Q&A pair as a separate FAQ entry.
-> FAQ entries give exact, reliable responses — use this for high-stakes questions.
+> FAQ entries give exact, reliable responses â€” use this for high-stakes questions.
 
 ---
 
@@ -166,22 +166,22 @@ A: We are open 7 days a week from 11:00 AM to 11:00 PM.
 A: Yes, we are open every day from 11:00 AM to 11:00 PM.
 
 **Q: Do you have vegetarian options?**
-A: Yes — all our dals, most vegetable dishes, paneer dishes, and breads are vegetarian. Just ask and I can suggest some.
+A: Yes â€” all our dals, most vegetable dishes, paneer dishes, and breads are vegetarian. Just ask and I can suggest some.
 
 **Q: Is your food halal?**
-A: For halal certification details, please call us directly — the team can confirm.
+A: For halal certification details, please call us directly â€” the team can confirm.
 
 **Q: Do you have gluten-free options?**
 A: Many of our rice dishes and curries are naturally gluten-free. For allergy needs, let the team know when you collect and the kitchen can advise directly.
 
 **Q: Can I customize the spice level?**
-A: Yes — for all curries, karahi, and masala dishes you can request mild, medium, or spicy.
+A: Yes â€” for all curries, karahi, and masala dishes you can request mild, medium, or spicy.
 
 **Q: What is Sarson da Saag?**
-A: Sarson da Saag is a classic Punjabi dish made from mustard greens, traditionally served with Makki di Roti — that's cornflour bread. It's a seasonal specialty.
+A: Sarson da Saag is a classic Punjabi dish made from mustard greens, traditionally served with Makki di Roti â€” that's cornflour bread. It's a seasonal specialty.
 
 **Q: What is Dal Makhani?**
-A: Dal Makhani is slow-cooked black lentils and kidney beans in a rich buttery tomato cream sauce — one of our most popular dishes.
+A: Dal Makhani is slow-cooked black lentils and kidney beans in a rich buttery tomato cream sauce â€” one of our most popular dishes.
 
 **Q: What is Butter Chicken?**
 A: Butter Chicken, also called Murgh Makhani, is tandoori chicken in a smooth mildly spiced tomato and butter sauce. It's mild and creamy.
@@ -190,40 +190,40 @@ A: Butter Chicken, also called Murgh Makhani, is tandoori chicken in a smooth mi
 A: Dal Makhani goes great with Butter Naan, Garlic Naan, or Tandoori Roti.
 
 **Q: What is Kulfi?**
-A: Kulfi is a traditional dense Indian ice cream on a stick — richer and creamier than regular ice cream. We have Mango, Pistachio, and Rose flavors.
+A: Kulfi is a traditional dense Indian ice cream on a stick â€” richer and creamier than regular ice cream. We have Mango, Pistachio, and Rose flavors.
 
 **Q: What is Ghee?**
-A: Ghee is clarified butter — a staple in Indian cooking. You can add it to any bread or dal for extra richness.
+A: Ghee is clarified butter â€” a staple in Indian cooking. You can add it to any bread or dal for extra richness.
 
 **Q: What is Bhatura?**
-A: Bhatura is a large deep-fried leavened bread. It's traditionally served with Chana Masala — a popular combo.
+A: Bhatura is a large deep-fried leavened bread. It's traditionally served with Chana Masala â€” a popular combo.
 
 **Q: What is Raita?**
-A: Raita is a chilled yogurt dish with cucumber and spices — great alongside biryani or spicy curries to balance the heat.
+A: Raita is a chilled yogurt dish with cucumber and spices â€” great alongside biryani or spicy curries to balance the heat.
 
 **Q: What goes well with Makki di Roti?**
-A: Makki di Roti is traditionally paired with Sarson da Saag — that's our Punjabi mustard greens. It's a seasonal classic.
+A: Makki di Roti is traditionally paired with Sarson da Saag â€” that's our Punjabi mustard greens. It's a seasonal classic.
 
 **Q: What is Paneer?**
-A: Paneer is Indian cottage cheese — fresh, mild, and used in many of our vegetarian dishes like Paneer Butter Masala, Palak Paneer, and Paneer Tikka.
+A: Paneer is Indian cottage cheese â€” fresh, mild, and used in many of our vegetarian dishes like Paneer Butter Masala, Palak Paneer, and Paneer Tikka.
 
 **Q: What is the difference between Paneer Butter Masala and Butter Chicken?**
-A: Same sauce base — rich tomato and butter — but Paneer Butter Masala uses cottage cheese and is vegetarian, while Butter Chicken uses tandoori chicken.
+A: Same sauce base â€” rich tomato and butter â€” but Paneer Butter Masala uses cottage cheese and is vegetarian, while Butter Chicken uses tandoori chicken.
 
 **Q: Do you have a kids menu?**
 A: We don't have a separate kids menu, but mild options like Butter Chicken, Paneer Butter Masala, plain rice, and breads are popular with kids.
 
 **Q: What is Chana Masala?**
-A: Chana Masala is chickpeas cooked in a tangy onion-tomato masala — it's vegetarian and goes great with Bhatura or rice.
+A: Chana Masala is chickpeas cooked in a tangy onion-tomato masala â€” it's vegetarian and goes great with Bhatura or rice.
 
 ---
 
 ## Maintenance Notes
 
-> These are internal notes — not entered into GHL.
+> These are internal notes â€” not entered into GHL.
 
 - **Adding menu items:** Add rows to the CSV, re-upload under Tables. No Rich Text changes needed.
 - **Price changes:** Update the CSV row and re-upload. The FAQ and Rich Text sections are unaffected.
-- **New FAQ:** Add a new FAQ entry in GHL directly — no file changes needed.
+- **New FAQ:** Add a new FAQ entry in GHL directly â€” no file changes needed.
 - **Seasonal items (e.g., Sarson da Saag, Gajar ka Halwa):** Mark active/inactive in the CSV by removing or adding rows. No restructuring needed.
-- **If menu grows to 150+ items:** Same CSV structure still works — add rows and re-upload. No other changes.
+- **If menu grows to 150+ items:** Same CSV structure still works â€” add rows and re-upload. No other changes.

@@ -1,6 +1,6 @@
-# Technical Settings — VA-01: English — Sonu da Dhaba
+﻿# Technical Settings â€” VA-01: English â€” The Golden Spoon
 
-> GHL → Settings → Voice AI → VA-01: English — Sonu da Dhaba
+> GHL â†’ Settings â†’ Voice AI â†’ VA-01: English â€” The Golden Spoon
 
 ---
 
@@ -20,8 +20,8 @@
 | Repeat | `3 times` |
 
 Reminder 1: `"Hey, are you still there?"`
-Reminder 2: `"Just checking — did you want to continue?"`
-Reminder 3: `"I'll go ahead and end the call if you're done. Thanks for calling Sonu da Dhaba!"`
+Reminder 2: `"Just checking â€” did you want to continue?"`
+Reminder 3: `"I'll go ahead and end the call if you're done. Thanks for calling The Golden Spoon!"`
 
 ---
 

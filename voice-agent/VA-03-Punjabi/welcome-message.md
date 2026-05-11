@@ -1,11 +1,11 @@
-# Welcome Message — VA-03: Punjabi
+﻿# Welcome Message â€” VA-03: Punjabi
 
-> GHL Agent Name: VA-03: Punjabi — Sonu da Dhaba
+> GHL Agent Name: VA-03: Punjabi â€” The Golden Spoon
 
 ## Inbound Welcome Message
 
 ```
-Haan ji, dasso ki chahida hai?
+Sat Shri Akal! Mein Sonu, The Golden Spoon to â€” tuhadi ki help kar sakdi haan?
 ```
 
-> Short and direct — the caller was already greeted and chose Punjabi in VA-04. Jumps straight into the conversation.
+> Authentic Punjabi greeting. "Mein" not "Main" â€” TTS reads "Main" as English "main".

@@ -1,7 +1,7 @@
-# Technical Settings — VA-04: Language Router — Sonu da Dhaba
+﻿# Technical Settings â€” VA-04: Language Router â€” The Golden Spoon
 
-> GHL → Settings → Voice AI → VA-04: Language Router — Sonu da Dhaba
-> This agent only routes calls — keep settings minimal and fast.
+> GHL â†’ Settings â†’ Voice AI â†’ VA-04: Language Router â€” The Golden Spoon
+> This agent only routes calls â€” keep settings minimal and fast.
 
 ---
 
@@ -13,7 +13,7 @@
 | End Call After Silence | `10 seconds` |
 | Wait Before Speaking | `0.1 seconds` |
 
-> Max 2 minutes — this agent should never be on a call longer than 30 seconds. If it is, something is wrong.
+> Max 2 minutes â€” this agent should never be on a call longer than 30 seconds. If it is, something is wrong.
 
 ### Idle Reminders
 | Setting | Value |
@@ -22,8 +22,8 @@
 | Starts After | `4 seconds` silence |
 | Repeat | `2 times` |
 
-Reminder 1: `"Hey, are you still there? — Haan, kya aap sunne ho? — Haan, ki tusi sunne ho?"`
-Reminder 2: `"No problem — give us a call back when you're ready. Bye!"`
+Reminder 1: `"Hey, are you still there? â€” Haan, kya aap sunne ho? â€” Haan, ki tusi sunne ho?"`
+Reminder 2: `"No problem â€” give us a call back when you're ready. Bye!"`
 
 ---
 
@@ -35,14 +35,14 @@ Reminder 2: `"No problem — give us a call back when you're ready. Bye!"`
 | Interruption Sensitivity | `0.60` |
 | LLM Temperature | `0.2` |
 
-> Response Speed `0.9` — faster than the order agents. This agent just needs to detect a word and transfer. Lower temperature `0.2` keeps it consistent and prevents it from going off-script.
+> Response Speed `0.9` â€” faster than the order agents. This agent just needs to detect a word and transfer. Lower temperature `0.2` keeps it consistent and prevents it from going off-script.
 
 ### Backchannel
 | Setting | Value |
 |---------|-------|
 | Enable | OFF |
 
-> No backchannel needed — this agent's turn is just a few seconds long.
+> No backchannel needed â€” this agent's turn is just a few seconds long.
 
 ---
 
@@ -58,10 +58,10 @@ Reminder 2: `"No problem — give us a call back when you're ready. Bye!"`
 English, Hindi, Punjabi, Haan ji, yes, no
 ```
 
-> Minimal keywords — the router only needs to recognise the three language names and basic yes/no.
+> Minimal keywords â€” the router only needs to recognise the three language names and basic yes/no.
 
 ### Pronunciation Dictionary
-> None needed — the router speaks very little and only uses simple English words.
+> None needed â€” the router speaks very little and only uses simple English words.
 
 ---
 
@@ -77,4 +77,4 @@ English, Hindi, Punjabi, Haan ji, yes, no
 | Speech Normalization | OFF |
 | Dynamic Voice Speed | OFF |
 
-> Speech Normalization and Dynamic Voice Speed both OFF — this agent says one sentence and transfers. No prices, no times, no adaptive pacing needed.
+> Speech Normalization and Dynamic Voice Speed both OFF â€” this agent says one sentence and transfers. No prices, no times, no adaptive pacing needed.

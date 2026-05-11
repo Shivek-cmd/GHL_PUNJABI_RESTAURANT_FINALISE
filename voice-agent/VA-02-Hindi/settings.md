@@ -1,6 +1,6 @@
-# Technical Settings — VA-02: Hindi — Sonu da Dhaba
+﻿# Technical Settings â€” VA-02: Hindi â€” The Golden Spoon
 
-> GHL → Settings → Voice AI → VA-02: Hindi — Sonu da Dhaba
+> GHL â†’ Settings â†’ Voice AI â†’ VA-02: Hindi â€” The Golden Spoon
 
 ---
 
@@ -21,7 +21,7 @@
 
 Reminder 1: `"Haan, kya aap sunne ho?"`
 Reminder 2: `"Kya aap continue karna chahte ho?"`
-Reminder 3: `"Theek hai, call band karta hoon. Shukriya Sonu da Dhaba ko call karne ka!"`
+Reminder 3: `"Theek hai, call band karta hoon. Shukriya The Golden Spoon ko call karne ka!"`
 
 ---
 
