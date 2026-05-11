@@ -16,7 +16,7 @@ The router agent reads the caller's reply to the welcome message, matches it aga
 ## Action 1 â€” Transfer to English Agent
 
 **Action type:** Agent Transfer
-**Select agent:** VA-01: English â€” The Golden Spoon
+**Select agent:** VA-01: English â€” Bizbull Restaurant
 
 **When to transfer to this agent:**
 ```
@@ -28,7 +28,7 @@ Transfer to this agent when the caller says "English", responds in English, or c
 ## Action 2 â€” Transfer to Hindi Agent
 
 **Action type:** Agent Transfer
-**Select agent:** VA-02: Hindi â€” The Golden Spoon
+**Select agent:** VA-02: Hindi â€” Bizbull Restaurant
 
 **When to transfer to this agent:**
 ```
@@ -40,7 +40,7 @@ Transfer to this agent when the caller says "Hindi", responds in Hindi, or clear
 ## Action 3 â€” Transfer to Punjabi Agent
 
 **Action type:** Agent Transfer
-**Select agent:** VA-03: Punjabi â€” The Golden Spoon
+**Select agent:** VA-03: Punjabi â€” Bizbull Restaurant
 
 **When to transfer to this agent:**
 ```
@@ -69,7 +69,7 @@ Transfer to this agent when the caller says "Punjabi", responds in Punjabi, or c
 
 | GHL Agent Name | Role |
 |----------------|------|
-| VA-01: English â€” The Golden Spoon | English ordering agent |
-| VA-02: Hindi â€” The Golden Spoon | Hindi ordering agent |
-| VA-03: Punjabi â€” The Golden Spoon | Punjabi ordering agent |
-| VA-04: Language Router â€” The Golden Spoon | Entry point â€” routes all inbound calls |
+| VA-01: English â€” Bizbull Restaurant | English ordering agent |
+| VA-02: Hindi â€” Bizbull Restaurant | Hindi ordering agent |
+| VA-03: Punjabi â€” Bizbull Restaurant | Punjabi ordering agent |
+| VA-04: Language Router â€” Bizbull Restaurant | Entry point â€” routes all inbound calls |

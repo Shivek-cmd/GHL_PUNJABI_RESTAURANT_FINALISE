@@ -1,6 +1,6 @@
-﻿# Technical Settings â€” VA-03: Punjabi â€” The Golden Spoon
+﻿# Technical Settings â€” VA-03: Punjabi â€” Bizbull Restaurant
 
-> GHL â†’ Settings â†’ Voice AI â†’ VA-03: Punjabi â€” The Golden Spoon
+> GHL â†’ Settings â†’ Voice AI â†’ VA-03: Punjabi â€” Bizbull Restaurant
 
 ---
 
@@ -21,7 +21,7 @@
 
 Reminder 1: `"Haan, ki tusi sunne ho?"`
 Reminder 2: `"Ki tusi continue karna chahunde ho?"`
-Reminder 3: `"Theek hai, call band karda haan. Shukriya The Golden Spoon nu call karne da!"`
+Reminder 3: `"Theek hai, call band karda haan. Shukriya Bizbull Restaurant nu call karne da!"`
 
 ---
 

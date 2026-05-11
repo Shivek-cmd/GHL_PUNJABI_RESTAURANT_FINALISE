@@ -1,6 +1,6 @@
-﻿# KB-01: The Golden Spoon
+﻿# KB-01: Bizbull Restaurant
 
-> **GHL Location:** AI Agents â†’ Knowledge Base â†’ + Create Knowledge Base â†’ Name: "KB-01: The Golden Spoon"
+> **GHL Location:** AI Agents â†’ Knowledge Base â†’ + Create Knowledge Base â†’ Name: "KB-01: Bizbull Restaurant"
 > **Attach to:** All Voice AI agents (VA-01 English, VA-02 Hindi, VA-03 Punjabi). Voice AI allows 1 KB â€” this is it.
 > **Structure:** This KB uses 3 source types. Set them up in order: Rich Text â†’ CSV Table â†’ FAQ.
 
@@ -15,7 +15,7 @@
 
 ### Rich Text Section 1 of 2: Restaurant Info
 
-**Name:** The Golden Spoon
+**Name:** Bizbull Restaurant
 **Cuisine:** Authentic Punjabi / North Indian
 **Hours:** Monday to Sunday, 11:00 AM to 11:00 PM â€” open 7 days a week
 **Order Types:** Takeout and Delivery

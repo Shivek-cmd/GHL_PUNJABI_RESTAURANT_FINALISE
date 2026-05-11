@@ -1,6 +1,6 @@
-﻿# Technical Settings â€” VA-04: Language Router â€” The Golden Spoon
+﻿# Technical Settings â€” VA-04: Language Router â€” Bizbull Restaurant
 
-> GHL â†’ Settings â†’ Voice AI â†’ VA-04: Language Router â€” The Golden Spoon
+> GHL â†’ Settings â†’ Voice AI â†’ VA-04: Language Router â€” Bizbull Restaurant
 > This agent only routes calls â€” keep settings minimal and fast.
 
 ---

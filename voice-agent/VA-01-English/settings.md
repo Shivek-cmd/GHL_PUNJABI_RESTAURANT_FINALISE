@@ -1,6 +1,6 @@
-﻿# Technical Settings â€” VA-01: English â€” The Golden Spoon
+﻿# Technical Settings â€” VA-01: English â€” Bizbull Restaurant
 
-> GHL â†’ Settings â†’ Voice AI â†’ VA-01: English â€” The Golden Spoon
+> GHL â†’ Settings â†’ Voice AI â†’ VA-01: English â€” Bizbull Restaurant
 
 ---
 
@@ -21,7 +21,7 @@
 
 Reminder 1: `"Hey, are you still there?"`
 Reminder 2: `"Just checking â€” did you want to continue?"`
-Reminder 3: `"I'll go ahead and end the call if you're done. Thanks for calling The Golden Spoon!"`
+Reminder 3: `"I'll go ahead and end the call if you're done. Thanks for calling Bizbull Restaurant!"`
 
 ---
 

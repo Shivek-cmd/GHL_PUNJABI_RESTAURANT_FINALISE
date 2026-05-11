@@ -1,6 +1,6 @@
 ﻿# Welcome Message â€” VA-01: English
 
-> GHL Agent Name: VA-01: English â€” The Golden Spoon
+> GHL Agent Name: VA-01: English â€” Bizbull Restaurant
 
 ## Inbound Welcome Message
 
