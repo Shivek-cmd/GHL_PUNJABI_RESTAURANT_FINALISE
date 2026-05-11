@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"d:\\\\Chrishan Solution\\\\GHL-Punjabi\\\\voice-agent\\\\knowledge-base\")",
+      "Bash(dir /s /b \"d:\\\\Chrishan Solution\\\\GHL-Punjabi\")"
+    ],
+    "additionalDirectories": [
+      "d:\\Chrishan Solution\\GHL-Punjabi\\voice-agent"
+    ]
+  }
+}
